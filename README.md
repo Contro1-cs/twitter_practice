@@ -1,5 +1,3 @@
-
-https://github.com/Contro1-cs/x_animate_fab/assets/81344234/216377f6-2844-43f4-bda0-b27d44f846b2
 # x_animate_fab
 
 - This Flutter animation page uses inbuilt animations only to create a smooth animation.
