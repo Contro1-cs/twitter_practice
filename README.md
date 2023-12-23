@@ -6,9 +6,11 @@
 - If you like my work please give me a shoutout on my [Twitter](https://twitter.com/Pxa_cheesecake)
 
 - Fab-animation
-<img width=200, height=350 alt="fab-animation", src = "https://github.com/Contro1-cs/x_animate_fab/assets/81344234/1cb562b0-3eb5-45b0-98c3-ff59fdbbe97b"/>
-
+-
+![ezgif com-crop](https://github.com/Contro1-cs/x_animate_fab/assets/81344234/1cb562b0-3eb5-45b0-98c3-ff59fdbbe97b)
 - Airbnb-checkout
-<img width=200, height=350 alt="fab-animation", src = "https://github.com/Contro1-cs/twitter_practice/assets/81344234/2478893b-7dfd-44db-a0e5-130f50619414"/>
-
-<img width=200, height=350 alt="fab-animation", src = "https://github.com/Contro1-cs/twitter_practice/assets/81344234/018306ba-7aa0-44e6-bd80-3b6b75174521"/>
+- 
+![WhatsApp Image 2023-12-22 at 00 51 20](https://github.com/Contro1-cs/twitter_practice/assets/81344234/2478893b-7dfd-44db-a0e5-130f50619414)
+- Pricing-page
+- 
+![ezgif com-video-to-gif-converted](https://github.com/Contro1-cs/twitter_practice/assets/81344234/3f17fd6f-da6b-4539-879d-fcc860c54f0b)
