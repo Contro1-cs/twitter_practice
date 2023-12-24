@@ -65,7 +65,7 @@ class _AddBtnAnimationState extends State<AddBtnAnimation> {
               child: Text(
                 toggle
                     ? 'Start Animation'
-                    : '${(scaleVar / 3).toString().split('.').first}% done',
+                    : '${min(100, (scaleVar / 3)).toString().split('.').first}% done',
                 style: GoogleFonts.inter(
                   color: Colors.grey,
                   fontWeight: FontWeight.w600,
